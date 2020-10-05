@@ -1,5 +1,5 @@
 # facturacion
-tareade facturacion
+tarea de facturacion
 
 ## GRUPO 2
 ### Juan Caycho
