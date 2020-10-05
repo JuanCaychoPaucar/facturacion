@@ -1,10 +1,7 @@
-# facturacion
-tarea de facturacion
+# Tarea Facturación JS
 
-## GRUPO 2
-### Juan Caycho
-### Alessandro Giuffra
-### Jesús Luján
-### Anthony Dueñas
-
-
+### Colaboradores:
+- [Juan Caycho](https://github.com/JuanCaychoPaucar)
+- [Alessandro Giuffra](https://github.com/Agiuffra)
+- [Jesús Luján](https://github.com/jesuslujancardenas2412)
+- [Anthony Dueñas](https://github.com/AnthonyDval)
